@@ -30,6 +30,7 @@ lastUpdated: false
 - [fetch API](./frontend/fetch-api.html)
 - [GraphQL](./frontend/graphql.html)
 - [Web Worker](./frontend/web-worker.html)
+- [Gatsby에 import alias 적용하기](./frontend/add-alias-in-gatsby-ts.html)
 
 ### Javascript
 - [Javascript 다시 공부하기](./javascript/study-javascript.html)
