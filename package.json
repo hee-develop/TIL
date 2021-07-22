@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build . -d ./build"
+    "build": "vuepress build . -d ./build",
+    "publish": "npm run build && npx gh-pages -d build"
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.20"
