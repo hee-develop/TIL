@@ -31,6 +31,7 @@ lastUpdated: false
 - [GraphQL](./frontend/graphql.html)
 - [Web Worker](./frontend/web-worker.html)
 - [Gatsby에 import alias 적용하기](./frontend/add-alias-in-gatsby-ts.html)
+- [ESLint & Prettier 빠르게 적용하기](./frontend/add-eslint-and-prettier-quickly.html)
 
 ### Javascript
 - [Javascript 다시 공부하기](./javascript/study-javascript.html)
