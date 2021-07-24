@@ -28,6 +28,7 @@ lastUpdated: false
 - [GraphQL](./frontend/graphql.html)
 - [PWA](./frontend/pwa.html)
 - [React에서 Function Component가 Sideeffect를 갖고 있는 이유](./frontend/react-function-component-sideeffect.html)
+- [PWA를 지원하는 React 앱 빠르게 구성하기](./frontend/create-react-app-with-pwa.html)
 - [Web Worker](./frontend/web-worker.html)
 - [fetch API](./frontend/fetch-api.html)
 - [마이크로 프론트엔드](./frontend/micro-frontend.html)
