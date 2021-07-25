@@ -2,7 +2,7 @@
 <html lang="ja-JP">
   <head>
     <title>PWA React アプリケーションを作る | TIL</title><meta name="description" content="Today I learned by hee-develop"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="generator" content="VuePress 2.0.0-beta.20">
-    <link rel="preload" href="/TIL/assets/js/runtime~app.8bb35f57.js" as="script"><link rel="preload" href="/TIL/assets/css/styles.0232ae5b.css" as="style"><link rel="preload" href="/TIL/assets/js/4640.39c9b760.js" as="script"><link rel="preload" href="/TIL/assets/js/app.55f6a0bd.js" as="script">
+    <link rel="preload" href="/TIL/assets/js/runtime~app.2b769ee1.js" as="script"><link rel="preload" href="/TIL/assets/css/styles.0232ae5b.css" as="style"><link rel="preload" href="/TIL/assets/js/4640.39c9b760.js" as="script"><link rel="preload" href="/TIL/assets/js/app.05782103.js" as="script">
     <link rel="stylesheet" href="/TIL/assets/css/styles.0232ae5b.css">
   </head>
   <body>
@@ -12,6 +12,6 @@
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><h3 id="serveでちゃんと動くか確認する" tabindex="-1"><a class="header-anchor" href="#serveでちゃんと動くか確認する" aria-hidden="true">#</a> serveでちゃんと動くか確認する</h3><p><code>service-worker.ts</code>は<code>develop</code>モードでアクセスできないため、PWAとして動かない。ローカルで確認するには必ずビルドし、別のサーバーに載せる必要がある。</p><p><code>serve</code>を使えば簡単に確認できるため、今回は<code>serve</code>を使うことにした。</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>yarn build
 npx serve -s build
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>そしてChromeで確認すると…</p><p><img src="/TIL/assets/img/create-pwa-react-app-01.767fa569.png" alt="PWA確認用スクショー"></p><p>PWA専用のダウンロードマークがでた！</p><!--]--></div><footer class="page-meta"><!----><div class="meta-item last-updated"><span class="meta-item-label">Last Updated: </span><span class="meta-item-info">2021/7/24 17:15:54</span></div><div class="meta-item contributors"><span class="meta-item-label">Contributors: </span><span class="meta-item-info"><!--[--><!--[--><span class="contributor" title="email: hee950320@yahoo.co.jp">hee-develop</span><!----><!--]--><!--]--></span></div></footer><!----><!--[--><!--]--></main></div><!----><!--]--></div>
-    <script src="/TIL/assets/js/runtime~app.8bb35f57.js" defer></script><script src="/TIL/assets/js/4640.39c9b760.js" defer></script><script src="/TIL/assets/js/app.55f6a0bd.js" defer></script>
+    <script src="/TIL/assets/js/runtime~app.2b769ee1.js" defer></script><script src="/TIL/assets/js/4640.39c9b760.js" defer></script><script src="/TIL/assets/js/app.05782103.js" defer></script>
   </body>
 </html>
