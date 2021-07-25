@@ -27,8 +27,8 @@ lastUpdated: false
 - [Gatsby에 import alias 적용하기](./frontend/add-alias-in-gatsby-ts.html)
 - [GraphQL](./frontend/graphql.html)
 - [PWA](./frontend/pwa.html)
-- [React에서 Function Component가 Sideeffect를 갖고 있는 이유](./frontend/react-function-component-sideeffect.html)
 - [PWA를 지원하는 React 앱 빠르게 구성하기](./frontend/create-react-app-with-pwa.html)
+- [React에서 Function Component가 Sideeffect를 갖고 있는 이유](./frontend/react-function-component-sideeffect.html)
 - [Web Worker](./frontend/web-worker.html)
 - [fetch API](./frontend/fetch-api.html)
 - [마이크로 프론트엔드](./frontend/micro-frontend.html)
@@ -58,4 +58,5 @@ lastUpdated: false
 
 ### 기타
 - [.gitignore 대상 폴더를 gh-pages를 이용해 배포하기](./etc/use-gh-pages.html)
+- [MacOS 독에 빈 공간 추가하기](./etc/add-space-in-macos-dock.html)
 - [일본 IT업계에서 사용하는 단어 모음](./etc/engineering-words-in-japan.html)

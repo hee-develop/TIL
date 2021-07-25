@@ -46,5 +46,6 @@ lastUpdated: false
 - [Git reflog는 로컬 저장소의 변경 값을 저장하는 로그이다](./git/reflog-is-only-used-in-local-repo.html)
 - [Git reset --hard를 쓸 땐 조심하자](./git/be-careful-when-using-hard-reset.html) -->
 
-<!-- ### 기타 -->
+### その他
+- [MacOS Dockに空白を入れる](./etc/add-space-in-macos-dock.html)
 <!-- - [일본 IT업계에서 사용하는 단어 모음](./etc/engineering-words-in-japan.html) -->
