@@ -14,6 +14,7 @@ lastUpdated: false
 
 프로그래밍 전반
 
+- [Boilerplate](./development-theory/boilerplate.html)
 - [DRY-KISS-YAGNI](./development-theory/dry-kiss-yagni.html)
 - [덕 타이핑(Duck typing)](./development-theory/duck-typing.html)
 - [동적 프로그래밍(DP)](./development-theory/dynamic-programming.html)
