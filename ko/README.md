@@ -16,6 +16,7 @@ lastUpdated: false
 
 - [Boilerplate](./development-theory/boilerplate.html)
 - [DRY-KISS-YAGNI](./development-theory/dry-kiss-yagni.html)
+- [Skeleton screen](./development-theory/skeleton-screen.html)
 - [덕 타이핑(Duck typing)](./development-theory/duck-typing.html)
 - [동적 프로그래밍(DP)](./development-theory/dynamic-programming.html)
 - [직렬화(serailization)](./development-theory/serialization.html)
