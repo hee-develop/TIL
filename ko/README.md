@@ -54,6 +54,7 @@ lastUpdated: false
 
 ### DB
 - [DB에서 인덱스란](./database/database-index.html)
+- [NoSQL](./database/no-sql.html)
 
 ### Git
 - [Git reflog는 로컬 저장소의 변경 값을 저장하는 로그이다](./git/reflog-is-only-used-in-local-repo.html)
