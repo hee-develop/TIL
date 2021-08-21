@@ -40,6 +40,7 @@ lastUpdated: false
 - [프론트엔드 서버](./frontend/frontend-server.html)
 
 ### Javascript
+- [FinalizationRegistry](./javascript/finalization-registry.html)
 - [Javascript 다시 공부하기](./javascript/study-javascript.html)
 - [불변 객체](./javascript/immutable-object.html)
 - [전역 Error 캐치하기](./javascript/catch-global-error.html)
